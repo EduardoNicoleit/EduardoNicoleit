@@ -1,5 +1,5 @@
-<img src="https://external-preview.redd.it/4MddL-315mp40uH18BgGL2-5b6NIPHcDMBSWuN11ynM.jpg?auto=webp&s=50ac2da49aefc83facd33f6d019d19b6e6a5bf29"></img>
 
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
 
 <h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
 <h3 align="center">| Engineer | Crypto Enthusiast ₿ ◎ | Developer | Always a Blank Page |</h3>
