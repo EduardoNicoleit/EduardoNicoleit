@@ -1,3 +1,6 @@
+<a href="https://external-preview.redd.it/4MddL-315mp40uH18BgGL2-5b6NIPHcDMBSWuN11ynM.jpg?auto=webp&s=50ac2da49aefc83facd33f6d019d19b6e6a5bf29"></a>
+
+
 <h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
 <h3 align="center">| Engineer | Crypto Enthusiast ₿ ◎ | Developer | Always a Blank Page |</h3>
 
