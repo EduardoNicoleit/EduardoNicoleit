@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Blockchain, Solana Network and NFT Projects**
 
-- 📫 How to reach me **eduardonicoleit@hotmail.com**
+- 📫 You can reach me via e-mail at **eduardonicoleit@hotmail.com**
 
 - ⚡ Fun fact **I have two cats and a beautiful girlfriend**
 
