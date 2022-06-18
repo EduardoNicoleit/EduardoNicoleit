@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardonicoleit&label=Profile%20views&color=0e75b6&style=flat" alt="eduardonicoleit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardonicoleit" alt="eduardonicoleit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/eduardonicoleit" target="blank"><img src="https://img.shields.io/twitter/follow/eduardonicoleit?logo=twitter&style=for-the-badge" alt="eduardonicoleit" /></a> </p>
 
 - 🔭 I’m currently working as **an Freelancer Blockchain Dev for the Solana Network**
