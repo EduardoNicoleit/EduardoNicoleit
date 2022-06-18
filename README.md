@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Solidity, JavaScript, SQL**
 
-- ⚛️ I’m looking to migrate to **Full Stack React Development**
+- ⚛️ I’m looking to migrate to **Frontend React Developer**
 
 - 🤝 I’m looking for help with **Entry Level Opportunities**
 
