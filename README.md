@@ -1,4 +1,4 @@
-<a href="https://external-preview.redd.it/4MddL-315mp40uH18BgGL2-5b6NIPHcDMBSWuN11ynM.jpg?auto=webp&s=50ac2da49aefc83facd33f6d019d19b6e6a5bf29"></a>
+<img src="https://external-preview.redd.it/4MddL-315mp40uH18BgGL2-5b6NIPHcDMBSWuN11ynM.jpg?auto=webp&s=50ac2da49aefc83facd33f6d019d19b6e6a5bf29"></img>
 
 
 <h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
