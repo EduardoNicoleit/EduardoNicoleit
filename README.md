@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/eduardonicoleit" target="blank"><img src="https://img.shields.io/twitter/follow/eduardonicoleit?logo=twitter&style=for-the-badge" alt="eduardonicoleit" /></a> </p>
 
-- 🔭 I’m currently working as **an Freelancer Blockchain Dev for the Solana Network**
+- 🔭 I’m currently working as **a Freelance Blockchain Dev for the Solana Network**
 
 - 🌱 I’m currently learning **React, Solidity, JavaScript, SQL**
 
