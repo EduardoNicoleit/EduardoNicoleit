@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as **a Freelance Blockchain Dev for the Solana Network**
 
-- 🌱 I’m currently learning **React, Solidity, JavaScript, SQL**
+- 🌱 I’m currently learning **React,Rust, Solidity, JavaScript**
 
 - ⚛️ I’m looking to migrate to **Frontend React Developer**
 
