@@ -2,7 +2,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/2438013375536940927/D370DBF7BFC83ED36F783F08A598FFF3E71A1D61/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="">
 
 <h1 align="center">Hi 👋, I'm Eduardo Nicoleit</h1>
-<h3 align="center">| Engineer | Crypto Enthusiast ₿ ◎ | Developer | Always a Blank Page |</h3>
+<h3 align="center">| Engineer | Crypto Enthusiast ₿ ◎ | Front End Developer | Always a Blank Page |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardonicoleit&label=Profile%20views&color=0e75b6&style=flat" alt="eduardonicoleit" /> </p>
 
