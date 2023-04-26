@@ -8,15 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/eduardonicoleit" target="blank"><img src="https://img.shields.io/twitter/follow/eduardonicoleit?logo=twitter&style=for-the-badge" alt="eduardonicoleit" /></a> </p>
 
-- 🔭 I’m currently working as **a Freelance Blockchain Dev for the Solana Network**
+- 🔭 I’m currently working as **a Freelance Front End Developer**
 
-- 🌱 I’m currently learning **React, Rust, Solidity, JavaScript**
+- 🌱 I’m currently learning **React, Next, JavaScript**
 
-- ⚛️ I’m looking to migrate to **Frontend React Developer**
-
-- 🤝 I’m looking for help with **Entry Level Opportunities**
-
-- 💬 Ask me about **Blockchain, Solana Network and NFT Projects**
+- ⚛️ I’m looking for oportunities as a **Entry Level Frontend Developer**
 
 - 📫 You can reach me via e-mail at **eduardonicoleit@hotmail.com**
 
