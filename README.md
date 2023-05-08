@@ -16,7 +16,11 @@
 
 - 📫 You can reach me via e-mail at **eduardonicoleit@hotmail.com**
 
+- 💼 You can check my portfolio at: https://portfolio-eduardonicoleit.vercel.app/
+
 - ⚡ Fun fact **I have two cats and a beautiful girlfriend**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
