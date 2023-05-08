@@ -14,7 +14,7 @@
 
 - ⚛️ I’m looking for oportunities as a **Entry Level Frontend Developer**
 
-- 📫 You can reach me via e-mail at **eduardonicoleit@hotmail.com**
+- 📫 You can reach me via **e-mail** at **eduardonicoleit@hotmail.com**
 
 - 💼 You can check my **portfolio** at: https://portfolio-eduardonicoleit.vercel.app/
 
