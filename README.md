@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/eduardonicoleit" target="blank"><img src="https://img.shields.io/twitter/follow/eduardonicoleit?logo=twitter&style=for-the-badge" alt="eduardonicoleit" /></a> </p>
 
-- 🔭 I’m currently working as **a Freelance Front End Developer**
+- 🔭 I’m currently working as **a Freelance Developer**
 
-- 🌱 I’m currently learning **React, Next, JavaScript**
+- 🌱 I’m currently learning **Solidity**
 
-- ⚛️ I’m looking for oportunities as a **Entry Level Frontend Developer**
+- ⚛️ I’m looking for oportunities as a **Entry Level Blockchain Developer**
 
 - 📫 You can reach me via **e-mail** at **eduardonicoleit@hotmail.com**
 
