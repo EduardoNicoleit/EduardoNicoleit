@@ -12,11 +12,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Audit**
 
-- ⚛️ I’m looking for oportunities as a **Blockchain Developer**
-
 - 📫 You can reach me via **e-mail** at **eduardonicoleit@hotmail.com**
-
-- 💼 You can check my **portfolio** at: https://portfolio-eduardonicoleit.vercel.app/
 
 - ⚡ Fun fact **I have two cats and a beautiful girlfriend**
 
